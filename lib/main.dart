@@ -51,7 +51,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               _buildButton('4'),
               _buildButton('5'),
               _buildButton('6'),
-
+              _buildButton('*'),
             ],
           ),
           Row(
